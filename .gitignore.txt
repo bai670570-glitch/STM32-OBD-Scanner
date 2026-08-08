@@ -1,0 +1,23 @@
+# Keil 编译输出
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.lnp
+*.hex
+*.bin
+*.axf
+*.map
+*.lst
+
+# Keil 个人配置
+*.uvoptx
+*.uvprojx.user
+
+# CubeMX 生成的临时文件
+*.mxproject
+
+# 系统文件
+.DS_Store
+Thumbs.db
